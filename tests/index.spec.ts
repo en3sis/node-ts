@@ -1,6 +1,9 @@
 import expect from 'expect';
 
-const user: UserT = {
+const user: {
+  name: string
+  age: number
+} = {
   name: 'Jhon Doe',
   age: 40
 }

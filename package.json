@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "ts-mocha -p ./tsconfig.json ./tests/**/*.spec.ts",
-    "start": "nodemon",
+    "start": "node build/index.js",
+    "dev": "nodemon",
     "build": "tsc --project ./"
   },
   "author": "en3sis",
