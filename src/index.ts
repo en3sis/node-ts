@@ -2,7 +2,7 @@ import express from 'express';
 import routes from './routes';
 
 const app = express();
-const PORT = 8000;
+const PORT = 3000;
 
 app.use(routes)
 
