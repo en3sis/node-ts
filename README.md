@@ -1,4 +1,7 @@
-# WIP: Node + Express in TypeScript | Boilerplate
+This was a nice template at the time, moved to https://nestjs.com/
+
+
+----
 Small initial configuration for a NODEJS + ExpressJs application with TypeScript.
 
 ## Scripts
